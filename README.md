@@ -11,7 +11,7 @@
 
 <h3 align="center">🔭Türkçe🔭</h3>
 
-- ⚡ Öğrendiğim diller **C#, SQL, C, Javascript, Vue.js Xamarin**  
+- ⚡ Öğrendiğim diller **C#, SQL, C, Javascript, Vue.js, Xamarin**  
 
 - 📫 İletişim **sefa_zor21@hotmail.com**
 
