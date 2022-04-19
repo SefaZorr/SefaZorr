@@ -5,7 +5,7 @@
 
 <h3 align="center">🔭English🔭</h3>
 
-- ⚡ I’m currently learning **C#, SQL, C, Javascript, Vue.js Xamarin** 
+- ⚡ I’m currently learning **C#, SQL, C, Javascript, Vue.js, Xamarin** 
 
 - 📫 How to reach me **sefa_zor21@hotmail.com** 
 
